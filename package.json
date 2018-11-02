@@ -36,5 +36,16 @@
     "react-test-renderer": "^16.4.1",
     "webpack": "^4.0.1",
     "webpack-cli": "^2.0.9"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philberryman/react-quizmachine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/philberryman/react-quizmachine/issues"
+  },
+  "homepage": "https://github.com/philberryman/react-quizmachine#readme"
 }

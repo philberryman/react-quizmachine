@@ -1,6 +1,17 @@
 import { combineReducers } from 'redux';
-import placeholder from './placeholder';
+import question from './question';
+import answers from './answers';
+import score from './score';
+import gameStatus from './gameStatus';
+import difficulty from './difficulty';
+
+
+
 
 export default combineReducers({
-  placeholder
+  question,
+  answers,
+  score,
+  gameStatus,
+  difficulty
 });
